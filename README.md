@@ -1,6 +1,6 @@
 # TimeCheck
 
-README prose word count: 334
+README prose word count: 323
 
 ## Project status
 
@@ -33,7 +33,7 @@ HTML and CSS render the interface. JavaScript parses requests, runs the selected
 
 ## AI assistance
 
-OpenAI Codex helped build the prototype, draft the report and turn tested browser states into storyboards. Codex checked parser behaviour, keyboard focus, recovery, mobile width and the report counts.
+I used OpenAI Codex to polish the report, help develop the system, check the outputs, and correct errors.
 
 ## Additional files
 
